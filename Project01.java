@@ -39,7 +39,7 @@ public class Project01 {
 
         //but now there is a tricky part: we do not test non exist button.
         //so, last part that we can not check!
-
-
+        
+        driver.close();
     }
 }
